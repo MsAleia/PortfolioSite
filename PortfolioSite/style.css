@@ -162,17 +162,16 @@ position: relative;
 }
 #work-container{
 	background-color: #34343E;
-    min-width: 100%;
 }
 .work-header{
 	color: white;
 	text-align: center;
-	margin: 15% 0 0 0;
+	margin: 5% 0 0 0;
 }
 .gridder{
 	list-style-type:none;
 	width: 98%;
-	margin: 1%;
+	margin: 2.5% 1% 5% 1.5%;
 }
 .gridder-list{
 	display:inline-block;
