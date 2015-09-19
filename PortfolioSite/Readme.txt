@@ -1,4 +1,5 @@
-Welcome to my Potfolio site!
+Welcome to my Portfolio site!
+
 
 This repo shows the journey of my portfolio site from origin to the summer of changes.
 
